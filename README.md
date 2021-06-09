@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stapmoshun
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning R, Python, and RStudio
+- 🌱 I’m currently learning R, Python, C++, Visual Studio and RStudio
 - 💞️ I’m looking to collaborate on a game
 - 📫 How to reach me: message me on github
 
